@@ -40,14 +40,14 @@ void loop()
 	}
 
 	if(eye){
-		for(int i = 0; i < 3; i++) // calda
+		for(int i = 0; i < 3; i++) // calda para esquerda
 		{
 			LED.setPixelColor(caldaE[i]+mov, 150, 0, 0);
 			LED.show();
 		}
 	}
 	else{
-		for(int i = 0; i < 3; i++) // calda
+		for(int i = 0; i < 3; i++) // calda para direita
 	{
 		LED.setPixelColor(caldaD[i]+mov, 150, 0, 0);
 		LED.show();
