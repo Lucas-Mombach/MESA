@@ -4,7 +4,6 @@
 
 Consiste em uma animação para o simulador da mesa de LED 12x12
 
-Jogo Desenvolvido para Simulador de Mesa LED 12x12
 
 ![Ghost 1](/Ghost2.png)
 
